@@ -7,3 +7,6 @@ dfgdfgfgf
 petras
 
 onute
+
+pomidoras
+arbuzas
